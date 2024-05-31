@@ -58,4 +58,10 @@ y-int: -3.6+/- 1/27
 For every 1 unit increase in latitude, we expect to see an increase in crab size of 0.49 +/- 0.034. 
 model statistics: F(1, 390) = 208.5, p<0.0001, alpha = 0.05, R^2^ = 0.35
 
+1. always save commit and push !!! do this often
+2. TALK TO YOUR COLLABORATORS
+3. Pull changes otherwise you will get a "merge conflict"
+
+order of operations:
+pull, work, save, stage, commit, close, push 
 
