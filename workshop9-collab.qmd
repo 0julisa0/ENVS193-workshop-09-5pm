@@ -13,6 +13,10 @@ library(lterdatasampler) # for data access
 library(ggeffects) # for models
 library(here) # for easy file pathing
 
+
+
+
+
 ```
 
 ```{r}
@@ -29,4 +33,5 @@ ggplot(aes(x = latitude,
   labs(x = "Latitude",
        y = "Size (mm)") + #update axes labels
   theme_minimal() #remove gridlines by updating theme
+
 ```
